@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+}
+.shop-item-list {
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: flex-start;
+  list-style: none;
+}
+.shop-item {
+
+  flex: 0 0 29%;
+  margin: 2rem 2.166%;
+
+}
+.shop-item {
+
+  margin: 2rem auto;
+  border: 0.0625rem solid #555;
+  box-shadow: 0 0 0.625rem 0.25rem #555;
+  padding:5px;
+
+}
+.shop-item-image {
+
+  margin: 0;
+
+}
+.error{color:red;}
+.success{color:green;}

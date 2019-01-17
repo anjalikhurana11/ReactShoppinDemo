@@ -1,0 +1,25 @@
+.cart{
+  text-align: left
+}
+.cart-item-image-link{
+  float:left;
+  width:100px;
+}
+.cart-item-info{
+  float:right;
+  width:200px;
+}
+.cart-items{
+  width:350px;
+  clear:both;
+  list-style: none;
+  display: inline-block;
+}
+.cart-item{
+  clear:both
+
+}
+.cart-total{
+  padding: 30px;
+  width: 300px;
+}
